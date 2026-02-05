@@ -54,5 +54,4 @@ independent and easy to test or extend.
 
 ## Dashboard link
 
-If deployed, add the URL here (e.g., Streamlit Community Cloud).
-For local use, run `streamlit run app.py` and open the local URL shown in the console.
+https://teiko-assessment-ijrt4amkdtsxjhahyct6m7.streamlit.app/
